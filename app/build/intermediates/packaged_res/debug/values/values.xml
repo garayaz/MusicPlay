@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="dark_accent">#212121</color>
+    <color name="dark_primary">#121212</color>
+    <color name="dark_primary_dark">#181818</color>
+    <color name="grey">#9C9C9C</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">My personal playlist</string>
+    <style name="AppTheme.Dark" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/dark_primary</item>
+        <item name="colorPrimaryDark">@color/dark_primary_dark</item>
+        <item name="colorAccent">@color/dark_accent</item>
+        
+    </style>
+    <style name="Base.Theme.ReproductorAyudantia" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ReproductorAyudantia" parent="Base.Theme.ReproductorAyudantia"/>
+</resources>

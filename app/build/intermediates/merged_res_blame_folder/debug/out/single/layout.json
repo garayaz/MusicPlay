@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Gonzalo\\.gradle\\daemon\\8.2\\araya.gonzalo.reproductorayudantia.app-mergeDebugResources-30:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Gonzalo\\.gradle\\daemon\\8.2\\araya.gonzalo.reproductorayudantia.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "araya.gonzalo.reproductorayudantia.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "araya.gonzalo.reproductorayudantia.app-main-33:/layout/activity_main.xml"
+    }
+]
